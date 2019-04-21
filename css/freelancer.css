@@ -19,9 +19,9 @@ h6 {
   font-family: 'Montserrat';
 }
 
-.mainPic{
-  width:540px; /* you can use % */
-  height: auto;
+.border{
+  border-style: solid;
+  border-width:1000px !important;
 }
 hr.star-light,
 hr.star-dark {
